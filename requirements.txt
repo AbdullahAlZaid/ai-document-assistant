@@ -1,0 +1,10 @@
+streamlit
+pypdf
+python-docx
+arabic-reshaper
+python-bidi
+sentence-transformers
+openai
+python-dotenv
+numpy
+pytest
